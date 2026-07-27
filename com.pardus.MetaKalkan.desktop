@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pardus MetaKalkan
+Comment=Belge ve fotoğraf meta verilerini çevrimdışı denetleyin
+Exec=python3 /opt/metakalkan/metakalkan.py
+Icon=security-high
+Terminal=false
+Categories=Utility;Security;Office;
+MimeType=application/pdf;application/vnd.openxmlformats-officedocument.wordprocessingml.document;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;image/jpeg;image/png;image/tiff;image/webp;

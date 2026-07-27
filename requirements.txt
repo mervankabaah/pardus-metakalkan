@@ -1,0 +1,3 @@
+Pillow>=10.0
+pikepdf>=9.0
+lxml>=5.0
