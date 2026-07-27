@@ -27,7 +27,7 @@ sudo apt install python3 python3-venv python3-gi gir1.2-gtk-3.0
 Depoyu indirin ve klasöre girin:
 
 ```bash
-git clone https://github.com/mervankabaah/pardus-metakalkan.git
+git clone https://github.com/KULLANICI_ADINIZ/pardus-metakalkan.git
 cd pardus-metakalkan
 ```
 
